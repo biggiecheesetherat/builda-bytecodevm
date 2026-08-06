@@ -6,5 +6,5 @@ int factorial(int n) {
 }
 
 int main() {
-    return factorial(5);
+    return factorial(5); // VM should say in stack "120"
 }
