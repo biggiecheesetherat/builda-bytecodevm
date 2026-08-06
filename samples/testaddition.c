@@ -1,3 +1,3 @@
 int main() {
-  return 5 + 3
+  return 5 + 3 // Should return 8 in VM
 }
